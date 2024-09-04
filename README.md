@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuanFranco-hub
+- 👀 I’m interested in Data, Business and Economics
+- 🌱 I’m currently learning Large Lenguage Models
+- 📫 How to reach me juan.franco.job@gmail.com
