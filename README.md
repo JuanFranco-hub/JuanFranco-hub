@@ -41,7 +41,7 @@ Thanks for stopping by! I'm Juan, currently living in <img src="https://img.icon
         <td>
 	    <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-45AA44?style=flat-square&logo=mongodb&logoColor=white" height="27"/></a>
             <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" height="27"/></a>
-            <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" height="27"/> <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/> <a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="27"/></a>
+            <a href="https://spark.apache.org/" target="_blank"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="27"/><a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" height="27"/> <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/> <a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="27"/></a>
             <a href="https://azure.microsoft.com/" target="_blank"><img alt="Microsoft Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="27"/></a>
 </a>
 	    </a>
@@ -55,7 +55,7 @@ Thanks for stopping by! I'm Juan, currently living in <img src="https://img.icon
         <td>
             </a>
 	    <a href="https://mlflow.org/" target="_blank"><img alt="MLflow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="27"/></a>
-	    <a href="https://airflow.apache.org/" target="_blank"><img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" height="27"/></a> 
+	    <a href="https://hadoop.apache.org/" target="_blank"><img alt="hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" height="27"/></a> 
 	</td>
     </tr>
   </tbody>
